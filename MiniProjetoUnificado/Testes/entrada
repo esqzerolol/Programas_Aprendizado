@@ -1,0 +1,25 @@
+12
+zero: 0x^0
+constante: 20x^0
+ala: 2x^4+2x^0
+poliB: 1x^3
+A: 1x^2+3x^9-2x^0
+B: 5x^3-2x^1
+C: 4x^0
+D: -6x^3
+um: 1x^0+2x^1+3x^2+4x^3+5x^4+6x^5
+dois: -1x^0-2x^1-3x^2-4x^3-5x^4-6x^5
+maiorquedez: 1x^11-3x^12
+maiorquevinte: 2x^10+5x^11-3x^12
+11
+zero - ala
+poliB + constante
+A+B
+C-D
+B+D
+um+um
+dois + dois
+um-um
+dois - dois
+maiorquedez+maiorquevinte
+um+maiorquedez
